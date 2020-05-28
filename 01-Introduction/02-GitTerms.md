@@ -38,4 +38,4 @@ When you upload your changes to a repo to the remote server it is called a push.
 
 When you download the changes on the remote server to your local machine it is called a pull.
 
-If you've understood all of these terms, then great! If not, then don't worry it can take some getting used to. git is a pretty abstract concept in of itself, but if you keep at it you'll get it in no time.
+If you've understood all of these terms, then great! If not, then don't worry it can take some getting used to. git is a pretty abstract concept in of itself, but if you keep at it you'll get it in no time. Also, I can already hear the git ninjas out there screaming "oh but you forgot `x` term! It's super important!". While I get that there's a lot to git that is SUPER helpful and SUPER important (trust me, I know), for just the basics this will do for now.
